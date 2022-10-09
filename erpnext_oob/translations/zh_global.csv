@@ -590,7 +590,7 @@ Add Attachment,添加附件
 Select Attachments,选择附件
 Summary,摘要
 Reference,参考
-Public,公开
+Public,公用
 Select File Format,选择文件格式
 Export Report:,导出报表:
 Export Report: {0},导出报表 {0}
@@ -1135,3 +1135,5 @@ Select Link,读(链接字段)
 Selected Serial Numbers,已选序列号
 Debit in Account Currency,借方(科目币别)
 Credit in Account Currency,贷方(科目币别)
+Your Shortcuts,快捷方式
+Reports & Masters,报表与主数据
